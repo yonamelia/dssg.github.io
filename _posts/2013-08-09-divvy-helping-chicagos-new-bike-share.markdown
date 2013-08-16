@@ -11,11 +11,13 @@ published: true
 
 As a car-less visitor in Chicago, I spent the first month of the fellowship relying on my feet  and the public transit feature of Google Maps to get around the city. After Divvy launched in early July, the city felt much smaller. 
 
+<a href="http://http://divvybikes.com/"><img src="/img/partners/divvy.jpg"></a>	
+
 That day, I had picked up a bike on Ohio St. just west of Lake Shore Drive. After riding for two minutes to get to the beach, I was trying to figure out how to spend the twenty-eight minutes remaining on my pass before returning my bike at a Divvy station somewhere else in the city. We chatted a bit more about bike share, and he wandered off to play beach frisbee while I hit the Lake Shore Trail to spend my remaining twenty-four minutes. 
 
 The beachgoer was not the first stranger to ogle my Divvy bike that day. I rode away satisfied that I was able to evangelize for the Divvy program while taking the afternoon off from the Data Science for Social Good project -- with Breanna Miller, Hunter Owens, Juan-Pablo Velez, Walter Dempsey, Adam Fishman, and Vidhur Vohra -- to help Divvy run more smoothly. 
 
-<a href="http://http://divvybikes.com//"><img src="/img/partners/divvy.jpg"></a>	
+<img src="/img/posts/divvy-team.jpg">
 
 #### The Rise of Bikeshare
 Bikeshare allows people to hop on one of 4,000 bikes at one of 400 stations, take a short trip, and drop the bikes off at another station. In doing so, the system expands the options of commuters. Given the radial layout of the El, as you move farther away from downtown, the more likely is is that you have a long walk to a stop. Divvy is perfect for those short one-way trips and has the potential to make commutes or travel at any time of the day much simpler. It’s also great for quick hops around the neighborhood.
@@ -41,11 +43,13 @@ For most of the day, people using the bikeshare system will probably be able to 
 Divvy and other bikeshare companies solve the balancing problem by driving trucks around the city, picking up bikes from full stations, and redistributing them to less crowded locations.
 
 <img src="/img/posts/divvy-truck.jpg">
-Photo by [Daniel X. O'Neil](http://www.flickr.com/photos/juggernautco)
+<div class="small">Photo by <a href="http://www.flickr.com/photos/juggernautco">Daniel X. O'Neil</a></div>
 
-The trouble with the this solution is that there is no great way to plan routes for the trucks. Right now, Divvy and other bike share dispatchers use real-time information about the number of bikes at each station to figure out where to redistribute bikes. Here's what they see in DC's Capital Bikeshare system:
+The trouble with the this solution is that there is no great way to plan routes for the trucks. Right now, Divvy and other bike share dispatchers use real-time information about the number of bikes at each station to figure out where to redistribute bikes. 
 
-<img src="/img/posts/dc-bike-dashboard.png">
+Here's what they see in DC's Capital Bikeshare system:
+
+<a href="http://www.cabitracker.com/status.php"><img src="/img/posts/dc-bike-dashboard.png"></a>
 
 They simply look at which stations are currently full or empty, and how long they’ve been that way. Then they move bikes into or out of these stations first.
 
@@ -59,4 +63,4 @@ We will package this prediction model in an easy-to-use map interface for Divvy,
 This tool will help Divvy anticipate rebalancing issues before they arise. Divvy has already expanded the transportation options for people in Chicago, and we want to keep this service running smoothly as it spreads across the city. Hopefully, when seeing a Divvy bike is no longer be a novelty to Chicagoans, finding one won’t be either.
 
 <img src="/img/posts/divvy-dock.jpg">
-Photo by [Daniel X. O'Neil](http://www.flickr.com/photos/juggernautco)
+<div class="small">Photo by <a href="http://www.flickr.com/photos/juggernautco">Daniel X. O'Neil</a></div>
