@@ -2,7 +2,7 @@
 type: event
 speakers: "Lise Getoor"
 img: 'getoor.jpg'
-future: 'yes'	
+future: 'no'	
 website: "http://www.cs.umd.edu/~getoor/"
 event: Computer Science Professor at the University of Maryland, College Park
 time: 12:30pm
