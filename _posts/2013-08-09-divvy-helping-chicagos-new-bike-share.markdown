@@ -60,7 +60,7 @@ Our goal is to help bike share companies anticipate where full and empty station
 
 We will package this prediction model in an easy-to-use map interface for Divvy, which will display the stations on a map and color code them based on how empty or full the model predicts them to be. A dispatcher can look at this presentation and quickly assess and direct the system’s rebalancing needs.
 
-This tool will help Divvy anticipate rebalancing issues before they arise. Divvy has already expanded the transportation options for people in Chicago, and we want to keep this service running smoothly as it spreads across the city. Hopefully, when seeing a Divvy bike is no longer be a novelty to Chicagoans, finding one won’t be either.
+This tool will help Divvy anticipate rebalancing issues before they arise. Divvy has already expanded the transportation options for people in Chicago, and we want to keep this service running smoothly as it spreads across the city. Hopefully, when seeing a Divvy bike is no longer a novelty to Chicagoans, finding one won’t be either.
 
 <img src="/img/posts/divvy-dock.jpg">
 <div class="small">Photo by <a href="http://www.flickr.com/photos/juggernautco">Daniel X. O'Neil</a></div>
