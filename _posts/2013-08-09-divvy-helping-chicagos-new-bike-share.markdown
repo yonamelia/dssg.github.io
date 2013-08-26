@@ -26,7 +26,8 @@ In addition to making it easier to get around cities - what transportation resea
 
 Chicago’s bike share is new, but programs like it have been popping up all over the world since 2007. Velib’, the bike share program in Paris, has over 24,000 bikes in its system. New York City’s Citi Bike program, which barely edged out Divvy with its launch this past May, is the largest in the US. Oliver O’Brien, a research associate at the University College of London, created the map below to show the location and size of bike share programs around the world. 
 
-<a href="http://bikes.oobrien.com/global.php"><img src="/img/posts/global-bike-map.png"></a>	
+<a href="http://bikes.oobrien.com/global.php"><img src="/img/posts/global-bike-map.png"></a>
+<div class="small">Map by <a href="http://oobrien.com/">Oliver O’Brien</a></div>
 
 #### The Balancing Problem
 As these bikeshare programs grow in popularity, they converge upon a common problem. The flow of commuting residents often means that more people bike in one direction than in the other at different times of the day. In Chicago, the majority of commuters travel from outlying neighborhoods into downtown Chicago in the morning, and then back to those neighborhoods in the evening.
@@ -51,6 +52,7 @@ The trouble with the this solution is that there is no great way to plan routes 
 Here's what they see in DC's Capital Bikeshare system:
 
 <a href="http://www.cabitracker.com/status.php"><img src="/img/posts/dc-bike-dashboard.png"></a>
+<div class="small">Tool by Daniel Golhke</div>
 
 They simply look at which stations are currently full or empty, and how long they’ve been that way. Then they move bikes into or out of these stations first.
 
