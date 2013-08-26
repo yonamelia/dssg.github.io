@@ -2,7 +2,6 @@
 type: event
 speakers: Rachel Schutt
 img: rachel.jpg
-future: "yes"
 website: "http://idse.columbia.edu/rachel-schutt-0"
 event: A Humanist Approach to Data Science
 time: "12:30pm"
