@@ -28,6 +28,7 @@ Chicago’s bike share is new, but programs like it have been popping up all ove
 
 <a href="http://bikes.oobrien.com/global.php"><img src="/img/posts/global-bike-map.png"></a>	
 
+#### The Balancing Probilem
 As these bikeshare programs grow in popularity, they converge upon a common problem. The flow of commuting residents often means that more people bike in one direction than in the other at different times of the day. In Chicago, the majority of commuters travel from outlying neighborhoods into downtown Chicago in the morning, and then back to those neighborhoods in the evening.
 
 Commuters might face a problem in the morning when they try to dock their bikes only to find the station is full. In the afternoon, they might leave work and find no bikes to ride at the corner station. Bike share companies call this mismatch between the expectations of the rider and the reality of the station a “balancing” problem. 
