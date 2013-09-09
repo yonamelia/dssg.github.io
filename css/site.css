@@ -187,6 +187,10 @@ p {
 	margin-top: -20px;
 }
 
+#sheriff-logo {
+	margin-top: -35px;
+}
+
 /* Adjust project partner pics for small screens */
 @media (max-width: 480px) {
 	#partners .span3 {
