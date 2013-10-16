@@ -18,7 +18,10 @@ We designed projects that helped the fellows learn how to solve social problems 
 If you are interested in attending this workshop on November 14-15, 2013 in Chicago, please email us at datasciencefellowship@ci.uchicago.edu. More information about the Eric & Wendy Schmidt “Data Science for Social Good” Summer Fellowship is available at http://dssg.uchicago.edu. We will tentatively begin with dinner on Nov 14th and end by 4pm on Nov 15th. 
 
 Rayid Ghani
+
 Computation Institute & Harris School of Public Policy
+
 University of Chicago
+
 rayid@uchicago.edu
 
