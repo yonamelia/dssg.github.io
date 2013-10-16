@@ -1,5 +1,10 @@
 ---
-published: false
+---
+layout: post
+title: "DSSG Fellowship Planning Workshop: Nov 14-15"
+author: Rayid Ghani
+published: true
+---
 ---
 
 ## DSSG Fellowship Planning Workshop
