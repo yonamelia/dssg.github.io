@@ -1,0 +1,333 @@
+---
+published: true
+layout: default
+---
+
+<div class="container">
+
+  <h1 class="headline">
+    <img id="logo" src="img/logo.png">
+    <p>The Eric & Wendy Schmidt</p>
+     Data Science for Social Good
+    <p>Summer Fellowship</p>
+     <img id="logo" src="/img/partners/uofc.jpg">
+  </h1>
+
+
+</div>
+
+<div class="dialog dialog-success">
+  <div class="container">
+    <h2 id="slogan" class="lead">
+      We’re training data scientists to tackle problems that really matter.
+    </h2>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="offset2 span8">
+      <br><br>
+      <p>
+        The Eric & Wendy Schmidt Data Science for Social Good fellowship is a <a href="http://www.uchicago.edu/">University of Chicago</a> summer program for aspiring data scientists to work on data mining, machine learning, big data, and data science projects with social impact.
+      </p>
+      <p>
+        Working closely with governments and nonprofits, fellows take on <strong>real-world problems</strong> in education, health, energy, transportation, and more.
+      </p>
+      <p>
+        For <strong>three months in Chicago</strong> they apply their coding and analytics skills, collaborate in a fast-paced atmosphere, and learn from mentors coming from industry, academia, and the Obama campaign.
+      </p>
+    </div>
+  </div>
+
+  <div id="blog" class="row section">
+        <h3>Blog</h3>
+        <hr>
+        <p>Read our blog to follow the fellowship and learn about our projects.
+        {% for post in site.posts limit:10 %}
+          {% unless post.type == 'org' or post.type == 'event' %}
+            <article>
+              <h4 class="post-title"><a href="{{ site.base_url }}{{ post.url }}">{{ post.title }}</a></h4>
+              <p class="post-date-author">{{ post.date | date_to_string }} - {{ post.author }}</p>
+            </article>
+          {% endunless %}
+        {% endfor %}
+        <div class="span8">
+        </div>
+        <div class="span3">
+          <a href="/blog/" class="btn btn-huge btn-block btn-embossed btn-danger">
+            Read More Posts →
+          </a>
+        </div>
+    </div>
+
+  <div id="partners" class="row section">
+    <h3>Our Project Partners</h3>
+    <hr>
+    <div class="span3">
+      <a href="http://www.cityofchicago.org">
+          <img id="city-logo" src="/img/partners/city_small.jpg">
+      </a>
+    </div>
+    <div class="span3">
+      <a href="http://transitchicago.com/">
+          <img id="cta-logo" src="/img/partners/cta_small.png">
+      </a>
+    </div>
+    <div class="span3">
+      <a href="http://www.chicagopolice.org">
+          <img id="cpd-logo" src="/img/partners/cpd_small.jpg">
+      </a>
+    </div>
+    <div class="span3">
+      <a href="http://www.cookcountygov.com/">
+          <img id="county-logo" src="/img/partners/cookcounty_small.png">
+      </a>
+    </div>
+    <div class="span3">
+      <a href="http://www.cityofchicago.org/city/en/depts/cdot.html">
+          <img id="cdot-logo" src="/img/partners/cdot.jpg">
+      </a>
+    </div>
+    <div class="span3">
+      <a href="http://www.divvybikes.com/">
+          <img id="divvy-logo" src="/img/partners/divvy.jpg">
+      </a>
+    </div>
+    <div class="span3">
+      <a href="http://www.cookcountylandbank.org/">
+        <img id="landbank-logo" src="/img/partners/landbank.jpg">
+      </a>
+    </div>
+    <div class="span3">
+      <a href="http://www.housingstudies.org/">
+        <img id="ihs-logo" src="/img/partners/ihs.png">
+      </a>
+    </div>
+    <div class="span3">
+      <a href="http://ushahidi.com/">
+        <img id="ushahidi-logo" src="/img/partners/ushahidi.png">
+      </a>
+    </div>
+    <div class="span3">
+      <a href="http://qcri.org.qa/">
+        <img id="qcri-logo" src="/img/partners/qcri.png">
+      </a>
+    </div>
+    <div class="span3">
+      <a href="http://www.lbl.gov">
+        <img id="lbnl-logo" src="/img/partners/lbnl_small.png">
+      </a>
+    </div>
+    <div class="span3">
+      <a href="http://www.edf.org/">
+        <img id="edf-logo" src="/img/partners/edf.jpg">
+      </a>
+    </div>
+    <div class="span3">
+      <a href="http://www.northshore.org/">
+        <img id="northshore-logo" src="/img/partners/northshore.jpg">
+      </a>
+    </div>
+    <div class="span3">
+      <a href="http://www.nursefamilypartnership.org">
+        <img id="nfp-logo" src="/img/partners/nfp.jpg">
+      </a>
+    </div>
+    <div class="span3">
+      <a href="http://www.cookcountysheriff.com/">
+        <img id="sheriff-logo" src="/img/partners/sheriff.png">
+      </a>
+    </div>
+    <div class="span3">
+      <a href="http://www.chapinhall.org">
+        <img id="chapin-logo" src="/img/partners/chapin.jpg">
+      </a>
+    </div>
+    <div class="span3">
+      <a href="http://crimelab.uchicago.edu">
+        <img id="crimelab-logo" src="/img/partners/crimelab.jpg">
+      </a>
+    </div>
+    <div class="span3">    
+      <a href="http://www.datakind.org">
+        <img id="datakind" src="/img/partners/datakind.png">
+      </a>
+    </div>
+    <div class="span3">
+      <a href="http://aws.amazon.com/">
+        <img id="aws-logo" src="/img/partners/aws.png">
+      </a>
+    </div>
+  </div>
+
+  <div class="row section people-spacing">
+    <h3>2013 Fellows</h3>
+    <hr>
+    <p>We're bringing thirty six aspiring data scientists from across the country to Chicago. They're graduate and undergraduate students from quantitative and computational fields - from computer science to machine learning to statistics to public policy.</p> 
+    <p>From June to September, they'll work in small teams on an analytics project for a nonprofit, local government, or federal agency. Fellows will work on high impact problems, analyze dozens of datasets, and learn from decision-makers on the front lines of public policy.</p> 
+    <br>
+    <div class="people">
+      <div class="span2">
+        <img src="/img/people/cheung.jpg" alt="Kyla Cheung">
+        <h6>Kyla Cheung</h6>
+        <p>Computer Science</p>
+        <p>Columbia University</p>
+      </div>
+      <div class="span2">
+        <img src="/img/people/brown.jpg" alt="Christopher Brown">
+        <h6>Christopher Brown</h6>
+        <p>Linguistics</p>
+        <p>UT Austin</p>
+      </div>
+      <div class="span2">
+        <img src="/img/people/bashyakarla.jpg" alt="Varoon Bashyakarla">
+        <h6>Varoon Bashyakarla</h6>
+        <p>Statistics, Economics</p>
+        <p>Yale University</p>
+      </div>
+      <div class="span3">
+        <a href="/people/" class="btn btn-huge btn-block btn-embossed btn-info">
+          Meet our Fellows →
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <div class="row section people-spacing">
+      <h3>2013 Mentors</h3>
+      <hr>
+      <p>
+        Our mentors are experienced data scientists and researchers from business, academia, and nonprofits. They'll work with fellow teams full-time this summer. They'll help fellows brainstorm projects, apply their coding and quantitative skills, and work with partner organizations. 
+      </p>
+      <br>
+      <div class="people">
+        <div class="span2">
+          <img src="/img/people/mader.jpg" alt="Nick Mader">
+          <h6>Nick Mader</h6>
+          <p>Economist PhD at Chapin Hall at the University of Chicago</p>
+        </div>
+        <div class="span2">
+          <img src="/img/people/eneva.jpg" alt="Elena Eneva">
+          <h6>Elena Eneva</h6>
+          <p>Machine learning expert at Accenture</p>
+        </div>
+        <div class="span2">
+          <img src="/img/people/plagge.jpg" alt="Tom Plagge">
+          <h6>Tom Plagge</h6>
+          <p>Astrophysicist PhD turned data scientist</p>
+        </div>
+        <div class="span3">
+          <a href="/people/#mentors" class="btn btn-huge btn-block btn-embossed btn-success">
+            Meet our Mentors →
+          </a>
+        </div>
+      </div>
+    </div>
+
+     <div class="row section people-spacing">
+      <h3>Our 2013 Volunteer Mentors</h3>
+      <hr>
+      <p>
+        Professional data scientists, web developers, and researchers from Chicago's data community and beyond. They're sharing their skills and expertise with the fellows part-time. 
+      </p>
+      <br>
+      <div class="people">
+        <div class="span2">
+          <img src="/img/people/shron.jpg" alt="Max Shron">
+          <h6>Max Shron</h6>
+          <p><a href="http://shron.net/">Data strategist</a> based in New York City, former data scientist at OkCupid</p>
+        </div>
+        <div class="span2">
+          <img src="/img/people/gregg.jpg" alt="Forest Gregg">
+          <h6>Forest Gregg</h6>
+          <p>Sociology PhD student at the University of Chicago</p>
+        </div>
+        <div class="span2">
+          <img src="/img/people/malmgren.png" alt="Dean Malmgren">
+          <h6>Dean Malmgren</h6>
+          <p>Data scientist at <a href='http://datascopeanalytics.com/'>Datascope Analytics</a></p>
+        </div>
+        <div class="span3">
+          <a href="/people/#volunteer-mentors" class="btn btn-huge btn-block btn-embossed btn-warning">
+            Meet our Volunteer Mentors →
+          </a>
+        </div>
+      </div>
+    </div>
+
+     <div class="section row people-spacing">
+      <h3>Staff</h3>
+      <hr>
+      <p>
+        The fellowship is led by <a href="http://www.rayidghani.com">Rayid Ghani</a> from the Computation Institute & Harris School of Public Policy at University of Chicago, and former chief data scientist of the 2012 Obama campaign. It's organized by an interdisciplinary team from the <a href="http://www.ci.uchicago.edu/">Computation Institute</a>, a joint initiative between the University of Chicago and Argonne National Laboratory. 
+      </p>
+      <br>
+      <div class="people">
+        <div class="span4">
+          <img src="/img/people/ghanig.jpg" alt="Rayid Ghani">
+          <h6>Rayid Ghani</h6>
+          <p>Currently at University of Chicago, former Chief scientist of 2012 Obama campaign</p>
+          <div class="icons">
+            <a href="http://www.twitter.com/rayidghani"><i class="ss-twitter"></i></a>
+            <a href="https://www.github.com/rayidghani"><i class="ss-octocat"></i></a>
+          </div>
+        </div>
+        <div class="span4">
+          <img src="/img/people/gee.jpg" alt="Matt Gee">
+          <h6>Matt Gee</h6>
+          <p>
+            Policy PhD student at the University of Chicago, former analyst at U.S. Treasury
+          </p>
+          <div class="icons">
+            <a href="http://www.twitter.com/matthewgee"><i class="ss-twitter"></i></a>
+            <a href="https://www.github.com/matthewgee"><i class="ss-octocat"></i></a>
+          </div>
+        </div>
+        <div class="span4">
+          <img src="/img/people/velez.jpg" alt="Juan-Pablo Velez">
+          <h6>Juan-Pablo Velez</h6>
+          <p>Civic technologist with Open City, former data journalist</p>
+          <div class="icons">
+            <a href="http://www.twitter.com/jpvelez"><i class="ss-twitter"></i></a>
+            <a href="https://www.github.com/jpvelez"><i class="ss-octocat"></i></a>
+          </div>
+        </div>
+        <div class="span4">
+          <img src="/img/people/kusiak-galvin.jpg" alt="Kate Kusiak Galvin">
+          <h6>Kate Kusiak Galvin</h6>
+          <p>Senior Associate Director of the Urban Center for Computation and Data, University of Chicago</p>
+           <div class="icons">
+            <a href="http://www.twitter.com/katekusiak"><i class="ss-twitter"></i></a>
+          </div>
+        </div>
+        <div class="span4">
+          <img src="/img/people/mitchum.jpg" alt="Rob Mitchum">
+          <h6>Rob Mitchum</h6>
+          <p>Staff science writer for the Computation Institute</p>
+          <div class="icons">
+            <a href="http://www.twitter.com/robmitchum"><i class="ss-twitter"></i></a>
+          </div>
+        </div>
+        <div class="span4">
+          <img src="/img/people/catlett.jpg" alt="Charlie Catlett">
+          <h6>Charlie Catlett</h6>
+          <p>Director of the Urban Center for Computation and Data</p>
+          <div class="icons">
+            <a href="http://www.twitter.com/CeC"><i class="ss-twitter"></i></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+  </div>
+</div>
+
+<script src="/js/js/jquery-1.8.3.min.js"></script>
+<script src="/js/js/bootstrap.min.js"></script>
+<script src="/js/js/bootstrap-select.js"></script>
+
+
+<!-- <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script> -->
+<!-- <script type="text/javascript" src="/js/jquery.stellar.min.js"></script> -->
+<!-- <script type="text/javascript" src="/js/site.js"></script> -->
