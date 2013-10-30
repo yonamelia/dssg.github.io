@@ -16,8 +16,6 @@ Businesses aren't alone. Data science - we use the current buzzword, but earlier
 #### The opportunity
 By analyzing data from police reports to website clicks to sensor signals, **governments** are starting to spot problems in real-time and design programs to maximize impact. More **nonprofits** are measuring whether or not they're helping people, and experimenting to find interventions that work.
 
-None of this is inevitable, however. 
-
 We're just realizing the potential of using data for social impact and face several hurdles to it's widespread adoption:
 
 - Most governments and nonprofits simply don't know what's possible yet. They have data - but often not enough and maybe not the right kind.
