@@ -26,7 +26,7 @@ Ideal project partners have
 
 **If you think your organization would be a good fit for the Summer 2014 Fellowship, please follow the instructions below to submit a project proposal**. If you know of any organizations that would benefit from being a project partner with Data Science for Social Good, please forward this call for projects along to them.
 
-### DSSG Project Proposal Guidelines:
+**DSSG Project Proposal Guidelines:**
 
 Proposals should contain a brief problem description, and should address each of the following requirements:
 
