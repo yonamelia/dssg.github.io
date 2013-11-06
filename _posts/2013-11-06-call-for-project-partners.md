@@ -4,8 +4,8 @@ layout: post
 author: Rayid Ghani
 ---
 
-## <center>Data Science for Social Good Fellowship</center>
-## <center>Summer 2014</center>
+### <center>Data Science for Social Good Fellowship</center>
+### <center>Summer 2014</center>
 
 **Background**:
 
