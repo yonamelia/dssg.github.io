@@ -10,24 +10,28 @@ In addition to training a highly-skilled corps of socially conscious data scient
 Project partners such as non-profits and government organizations are critical to this program. **We are seeking partners for Summer 2014, with the possibility of a longer-term collaboration**. If your organization would like to be part of the Summer 2014 fellowship, please follow the guidelines detailed below. 
 
 Ideal project partners have
+
 1. an interesting problem that can be tackled using data/analytics
+
 2. a willingness to engage with the fellows on a regular basis
+
 3. the ability to use the fellows’ solution to make a meaningful social impact.
+
 
 **If you think your organization would be a good fit for the Summer 2014 Fellowship, please follow the instructions below to submit a project proposal**. If you know of any organizations that would benefit from being a project partner with Data Science for Social Good, please forward this call for projects along to them.
 
 ### DSSG Project Proposal Guidelines:
 
 Proposals should contain a brief problem description, and should address each of the following requirements:
-- item
-- item
-- item
-
 
 -	**Relevant Problem**: The project should relate to an issue that has a broad social impact.
+
 -	**Data Can Help**: There should be a clear way in which analytics and technology can help address the identified problem.
--	**Access to Data**: The partner should be willing to allow the University of Chicago to access the relevant data, either remotely (using the partner organization’s computing resources) or via a secure copy.
+
+-	**Access to Data**: The partner should be willing to allow the University of Chicago to access the relevant data, either remotely (using the partner organization’s computing resources) or on secure servers at the university.
+
 -	**Access to Experts**: The partner should be willing to dedicate time to discussing the problem and potential solutions with the fellows, explaining the data, and answering questions--particularly at the beginning of the fellowship, but continuing throughout.
+
 -	**Post-Fellowship Usage**: Partners should identify a path for using the fellows’ work and/or developing it further.
 
 In some cases, it may be possible to start collaborative work on a problem before the fellowship begins, and/or to continue work after the summer. Therefore, if you have a proposal for a longer-term project that may not fit in a three-month program, feel free to discuss it in your proposal.
