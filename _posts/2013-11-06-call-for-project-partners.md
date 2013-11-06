@@ -67,7 +67,7 @@ rayid@uchicago.edu
 
 
 
-<center>### Past Projects:</center>
+### <center>Past Projects:</center>
 
 The summer 2013 fellows worked on over a dozen projects, details of which are available at http://dssg.uchicago.edu. Some examples of partners and corresponding projects include:
 
