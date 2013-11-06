@@ -6,7 +6,6 @@ author: Rayid Ghani
 
 ### <center>Data Science for Social Good Fellowship</center>
 ### <center>Summer 2014</center>
-![Submit a Proposal](/_posts/submit_a_proposal.png)
 
 **Background**:
 
