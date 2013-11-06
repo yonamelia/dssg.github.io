@@ -1,5 +1,7 @@
 ---
-published: false
+published: true
+layout: post
+author: Rayid Ghani
 ---
 
 ## <center>Data Science for Social Good Summer Fellowship</center>
