@@ -6,7 +6,8 @@ author: Rayid Ghani
 
 ### <center>Data Science for Social Good Fellowship</center>
 ### <center>Summer 2014</center>
-### <center>[Proposal Submission Form](http://https://docs.google.com/forms/d/1C4NQbJuovLuAIZaMXKV6yviPl6ggiCek9kHdG4IC0Xs/viewform)</center>
+** <center>[Proposal Submission Form](http://https://docs.google.com/forms/d/1C4NQbJuovLuAIZaMXKV6yviPl6ggiCek9kHdG4IC0Xs/viewform)</center>**
+
 
 **Background**:
 
@@ -53,7 +54,7 @@ Formal Proposal Deadline: February 1, 2014
 
 Final Decisions: March 1, 2014
 
-##<center>[Click Here to Submit a Proposal](http://https://docs.google.com/forms/d/1C4NQbJuovLuAIZaMXKV6yviPl6ggiCek9kHdG4IC0Xs/viewform)</center>
+**<center>[Click Here to Submit a Proposal](http://https://docs.google.com/forms/d/1C4NQbJuovLuAIZaMXKV6yviPl6ggiCek9kHdG4IC0Xs/viewform)</center>**
 
 
 For more information, please email rayid@uchicago.edu. Information about the Eric & Wendy Schmidt “Data Science for Social Good” Summer Fellowship is available at http://dssg.uchicago.edu.
