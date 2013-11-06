@@ -7,6 +7,8 @@ author: Rayid Ghani
 ### <center>Data Science for Social Good Fellowship</center>
 ### <center>Summer 2014</center>
 
+<center>![Submit a Proposal](/_posts/submit_a_proposal.png)</center>
+
 **Background**:
 
 The University of Chicago launched the [Eric & Wendy Schmidt Data Science for Social Good Summer Fellowship](http://dssg.uchicago.edu) in 2013 to give aspiring data scientists the opportunities, skills, and experience to tackle problems with social impact. In the first year of the program, approximately 600 applicants--graduate students and advanced undergraduates with backgrounds in Computer Science, Statistics, Economics, and Public Policy from 200 universities around the world--competed for 36 fellow positions. The selected fellows worked together with experienced mentors on projects in areas such as education, health care, energy, disaster relief, city services, transportation, and public safety.
