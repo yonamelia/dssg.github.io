@@ -55,8 +55,7 @@ Formal Proposal Deadline: February 1, 2014
 
 Final Decisions: March 1, 2014
 
-**Proposals should be submitted** 
-[here](http://docs.google.com/forms/d/1C4NQbJuovLuAIZaMXKV6yviPl6ggiCek9kHdG4IC0Xs/viewform)
+<a href="http://docs.google.com/forms/d/1C4NQbJuovLuAIZaMXKV6yviPl6ggiCek9kHdG4IC0Xs/viewform"><img src="/img/posts/submit_a_proposal.png"></a>	
 
 
 For more information, please email rayid@uchicago.edu. Information about the Eric & Wendy Schmidt “Data Science for Social Good” Summer Fellowship is available at http://dssg.uchicago.edu.
