@@ -38,9 +38,11 @@ In some cases, it may be possible to start collaborative work on a problem befor
 
 **Deadlines:**
 Initial Expression of Interest: December 10, 2013
+
 Initial Response from us: January 5, 2014
 
 Formal Proposal Deadline: February 1, 2014
+
 Final Decisions: March 1, 2014
 
 **Proposals should be submitted at** http://www.ci.uchicago.edu/datasciencefellowship/2014/cfp_form.html
@@ -48,6 +50,9 @@ Final Decisions: March 1, 2014
 For more information, please email rayid@uchicago.edu. Information about the Eric & Wendy Schmidt “Data Science for Social Good” Summer Fellowship is available at http://dssg.uchicago.edu.
 
 **Rayid Ghani – Fellowship Director**
-**Computation Institute & Harris School of Public Policy
-University of Chicago
-rayid@uchicago.edu**
+
+**Computation Institute & Harris School of Public Policy**
+
+**University of Chicago**
+
+**rayid@uchicago.edu**
