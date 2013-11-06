@@ -2,7 +2,7 @@
 published: false
 ---
 
-## <center> Data Science for Social Good Summer Fellowship</center>
+## <center>Data Science for Social Good Summer Fellowship</center>
 ## <center>CALL FOR PROJECT PARTNERS </center>
 ## <center>Summer 2014</center>
 
