@@ -7,6 +7,8 @@ author: Rayid Ghani
 ### <center>Data Science for Social Good Fellowship</center>
 ### <center>Summer 2014</center>
 
+### <center>[Proposal Submission Form](http://https://docs.google.com/forms/d/1C4NQbJuovLuAIZaMXKV6yviPl6ggiCek9kHdG4IC0Xs/viewform)</center>
+
 **Background**:
 
 The University of Chicago launched the [Eric & Wendy Schmidt Data Science for Social Good Summer Fellowship](http://dssg.uchicago.edu) in 2013 to give aspiring data scientists the opportunities, skills, and experience to tackle problems with social impact. In the first year of the program, approximately 600 applicants--graduate students and advanced undergraduates with backgrounds in Computer Science, Statistics, Economics, and Public Policy from 200 universities around the world--competed for 36 fellow positions. The selected fellows worked together with experienced mentors on projects in areas such as education, health care, energy, disaster relief, city services, transportation, and public safety.
@@ -52,7 +54,8 @@ Formal Proposal Deadline: February 1, 2014
 
 Final Decisions: March 1, 2014
 
-**Proposals should be submitted at** http://www.ci.uchicago.edu/datasciencefellowship/2014/cfp_form.html
+##<center>[Click Here to Submit a Proposal](http://https://docs.google.com/forms/d/1C4NQbJuovLuAIZaMXKV6yviPl6ggiCek9kHdG4IC0Xs/viewform)</center>
+
 
 For more information, please email rayid@uchicago.edu. Information about the Eric & Wendy Schmidt “Data Science for Social Good” Summer Fellowship is available at http://dssg.uchicago.edu.
 
@@ -79,6 +82,6 @@ The summer 2013 fellows worked on over a dozen projects, details of which are av
 
 **Chicago Transit Authority**:	Use individual-level public transit usage data to simulate crowding on Chicago bus routes, and to prototype a system that helps predict the impact of schedule changes.
 
-**[Ushahidi]**(http://www.ushahidi.com/): Help scale up the Ushahidi Open Source Crowdsourcing platform, which gathers information about disasters and other important events from SMS messages, emails, tweets, etc., by automating aspects of the data extraction process. 
+**[Ushahidi](http://www.ushahidi.com/)**: Help scale up the Ushahidi Open Source Crowdsourcing platform, which gathers information about disasters and other important events from SMS messages, emails, tweets, etc., by automating aspects of the data extraction process. 
 
 **Nurse Family Partnership**: Use non-experimental data to estimate the effectiveness of the NFP Nurse Home Visitation program at improving outcomes for newborns (e.g., immunization and breast-feeding rates).
