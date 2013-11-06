@@ -1,4 +1,5 @@
-## <center>CALL FOR PROJECT PARTNERS</center>
+## <center> Data Science for Social Good Summer Fellowship</center>
+## <center>CALL FOR PROJECT PARTNERS </center>
 ## <center>Summer 2014</center>
 
 **Background**:
@@ -37,6 +38,7 @@ Proposals should contain a brief problem description, and should address each of
 In some cases, it may be possible to start collaborative work on a problem before the fellowship begins, and/or to continue work after the summer. Therefore, if you have a proposal for a longer-term project that may not fit in a three-month program, feel free to discuss it in your proposal.
 
 **Deadlines:**
+
 Initial Expression of Interest: December 10, 2013
 
 Initial Response from us: January 5, 2014
