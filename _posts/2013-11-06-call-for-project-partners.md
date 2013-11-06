@@ -56,10 +56,29 @@ Final Decisions: March 1, 2014
 
 For more information, please email rayid@uchicago.edu. Information about the Eric & Wendy Schmidt “Data Science for Social Good” Summer Fellowship is available at http://dssg.uchicago.edu.
 
-**Rayid Ghani – Fellowship Director**
+Rayid Ghani – Fellowship Director
 
-**Computation Institute & Harris School of Public Policy**
+Computation Institute & Harris School of Public Policy
 
-**University of Chicago**
+University of Chicago
 
-**rayid@uchicago.edu**
+rayid@uchicago.edu
+
+
+
+
+<center>### Past Projects:</center>
+
+The summer 2013 fellows worked on over a dozen projects, details of which are available at http://dssg.uchicago.edu. Some examples of partners and corresponding projects include:
+
+**Mesa Public School District**:	Help the Mesa (Arizona) Public Schools identify students with the potential to go to college and graduate, but who are likely to apply to colleges--if any--that are far below their potential. These students will be provided additional support to enroll in college, seek financial aid, and embark on a fulfilling career.
+
+**City of Chicago**:	Work together with city agencies such as the Department of Streets and Sanitation to evaluate the impact of service changes, and to optimize service delivery for quality and efficiency.
+
+**Northshore Hospital**: Use clinical and lab data to better predict cardiac and respiratory arrest (Code Blue). This helps doctors identify at-risk patients and attend to them earlier.
+
+**Chicago Transit Authority**:	Use individual-level public transit usage data to simulate crowding on Chicago bus routes, and to prototype a system that helps predict the impact of schedule changes.
+
+**[Ushahidi]**(http://www.ushahidi.com/): Help scale up the Ushahidi Open Source Crowdsourcing platform, which gathers information about disasters and other important events from SMS messages, emails, tweets, etc., by automating aspects of the data extraction process. 
+
+**Nurse Family Partnership**: Use non-experimental data to estimate the effectiveness of the NFP Nurse Home Visitation program at improving outcomes for newborns (e.g., immunization and breast-feeding rates).
