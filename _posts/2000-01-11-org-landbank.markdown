@@ -6,6 +6,9 @@ slug: landbank
 img: [cookcounty.png, landbank.jpg, ihs.png]
 website: ['http://www.cookcountygov.com/', 'http://www.cookcountylandbank.org/', 'http://www.housingstudies.org/'] 
 project: Abandoned property analytics tool
+blog-post: http://dssg.io/2013/07/11/cook-county-land-bank.html
+wiki: https://github.com/dssg/land-bank/wiki
+repo: https://github.com/dssg/land-bank/
 ---
 The Great Recession flooded Chicago with foreclosures, deepening the blight in many of the city’s economically distressed neighborhoods. Nearly 10% of Cook County's housing units are vacant, according to the last Census. 
 

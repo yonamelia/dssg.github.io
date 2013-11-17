@@ -5,6 +5,8 @@ slug: city
 img: ['city.jpg', 'chapin.jpg']
 website: ['http://www.cityofchicago.org', 'http://www.chapinhall.org']
 project: Predictive Analytics for Smarter City Services
+wiki: https://github.com/dssg/411-on-311/wiki
+repo: https://github.com/dssg/411-on-311/
 ---
 From transportation to potholes to graffiti to abandoned buildings, city governments are tasked with innumerable responsibilities to keep their residents moving and their neighborhoods safe and thriving. But cities are vast places - Chicago alone has around 28,000 city blocks - where multifaceted relationships are the norm.
 

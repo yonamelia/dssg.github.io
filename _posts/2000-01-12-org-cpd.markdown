@@ -6,6 +6,8 @@ slug: cpd
 img: [cpd.jpg, crimelab.jpg]
 website: ['https://portal.chicagopolice.org', 'http://crimelab.uchicago.edu']
 project: Predictive analytics of crime
+wiki: https://github.com/dssg/publicsafety/wiki
+repo: https://github.com/dssg/publicsafety/
 ---
 Chicago’s [Police Department](https://portal.chicagopolice.org) helped pioneer predictive analytics in policing during the early 2000’s. Now they are looking to take data-driven police work to a new level. 
 

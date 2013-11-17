@@ -5,6 +5,9 @@ slug: cta
 img: cta.png
 website: ['http://www.transitchicago.com']
 project: Simulating better bus service
+blog-post: http://dssg.io/2013/08/02/why-bus-crowding-happens.html
+wiki: https://github.com/dssg/cta-sim/wiki
+repo: https://github.com/dssg/cta-sim/
 ---
 
 The [Chicago Transit Authority](http://www.transitchicago.com) (CTA) runs the nation's second largest transit system. Its buses and trains agency move a ton of people - around 1.6 million trips are taken each day. CTA also gather lots of data: they know [where buses and trains are](http://www.transitchicago.com/developers/bustracker.aspx) in real-time and how many people get on and off at each bus stop.

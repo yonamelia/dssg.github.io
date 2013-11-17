@@ -60,8 +60,25 @@ published: true
 
         <!-- Project description -->
         <div class="span8">
+
+          <!-- Blurb -->
           {{ post.content }}
+
+          <!-- Blog post, doc, code -->
+          {% if post.blog-post %}
+            <a href="{{ post.blog-post }}" class="btn btn-huge btn-danger btn-block btn-embossed">
+              Blog post: overview of problem and solution</a>
+          {% endif %}
+
+          {% if post.wiki %}
+            <a href="{{ post.wiki }}" class="btn btn-huge btn-success btn-block btn-embossed">
+              Report: in-depth, technical documentation</a>
+            <a href="{{ post.repo }}" class="btn btn-huge btn-info btn-block btn-embossed">
+              Code: open source code on Github</a>
+          {% endif %}
         </div>
+
+
       </div>
 
     {% endif %}

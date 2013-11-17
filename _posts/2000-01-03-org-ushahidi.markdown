@@ -8,6 +8,9 @@ img: ushahidi.png
 website: 
   - "http://www.ushahidi.com"
 project: Smarter crowdsourcing for crisis maps
+blog-post: http://dssg.io/2013/07/15/ushahidi-machine-learning-for-human-rights.html 
+wiki: https://github.com/dssg/ushine-learning/wiki
+repo: https://github.com/dssg/ushine-learning/
 ---
 
 During natural disasters, social upheavals, and contested elections, it

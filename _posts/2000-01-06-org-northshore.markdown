@@ -8,6 +8,8 @@ img: northshore.jpg
 website: 
   - "http://www.northshore.org/"
 project: Using electronic medical record data to predict better health
+wiki: https://github.com/dssg/growth-curves/wiki
+repo: https://github.com/dssg/growth-curves/
 ---
 
 Electronic medical records (EMR) promise to transform our understanding of patients’ ailments and improve their care. [NorthShore University HealthSystem](http://www.northshore.org/) in suburban Chicago has been a national leader in the implementation of EMR systems for the past decade. It is the first healthcare provider to be awarded the highest level of EMR deployment for both inpatient and outpatient care. This remarkable effort has generated much anonymized data available for innovative analytics research.

@@ -5,6 +5,8 @@ slug: qcri
 img: qcri.png
 website: ['http://www.qcri.com']
 project: Measuring disaster damage with tweets
+wiki: https://github.com/dssg/tweedr/wiki
+repo: https://github.com/dssg/tweedr/
 ---
 In our connected world, information about natural disasters and other emergencies often appears on social media faster than on traditional channels. But gleaning useful knowledge from this flood of tweets and status updates is tough. We need better methods to find the needles in this haystack of unstructured text.
 

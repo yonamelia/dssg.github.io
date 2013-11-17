@@ -8,6 +8,8 @@ img:
 website: 
   - "http://www.cleanenergyfinancecenter.org/"
 project: Predicting building energy loan performance
+wiki: https://github.com/dssg/EDF/wiki
+repo: https://github.com/dssg/EDF/
 ---
 
 Besides the difficulty of predicting the energy savings that are likely to result from a building retrofit, there’s another key obstacle to large-scale investment in building energy efficiency: investors lack clear data on past retrofit loans. As a result, they have a hard time predicting whether a building owner is likely to pay back a loan, and are less likely to invest in viable projects.
