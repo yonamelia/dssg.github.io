@@ -1,14 +1,17 @@
 ---
 type: org
 issue: Energy
-org: Lawrence Berkeley National Laboratory
+org: [Lawrence Berkeley National Laboratory, Agentis Energy]
 slug: lbnl
-img: [lbnl.png]
-website: ['http://www.lbl.gov/']
+img: [lbnl.png, agentis.png]
+website: ['http://www.lbl.gov/', 'http://www.agentisenergy.com']
 project: Predicting building energy savings 
+blog-post: https://github.com/dssg/energywise/wiki/Problem
+wiki: https://github.com/dssg/energywise/wiki
+repo: https://github.com/dssg/energywise/
 ---
 Energy efficiency is supposed to be the low hanging fruit of clean energy. But few people are investing in building energy retrofits. This is because the potential energy savings vary wildly by building, so the return on investment of fixing up property is highly uncertain.
  
 The [Lawrence Berkeley National Laboratory](http://www.lbl.gov/) - a scientific research facility funded by the Department of Energy - wants to use data to help businesses and homeowners understand their how much less energy their building could be using with the right modifications.
 
-Fellows will analyze smart meter data from thousands of buildings across the United States, using Berkeley Lab’s [building fingerprint tool](http://fingerprint.lbl.gov/) to predict future energy savings for different kinds of buildings. The goal is to make it possible for private investors to fund energy efficiency projects at scale.
+Fellows will analyze energy data from [Agentis Enegy](agentisenergy.com) on thousands of buildings across the United States, using Berkeley Lab’s [building fingerprint tool](http://fingerprint.lbl.gov/) to predict future energy savings for different kinds of buildings. The goal is to make it possible for private investors to fund energy efficiency projects at scale.
