@@ -1,5 +1,6 @@
 ---
 published: true
+type: news
 layout: post
 author: Rayid Ghani
 ---
