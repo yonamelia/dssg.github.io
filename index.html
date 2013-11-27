@@ -61,12 +61,12 @@ layout: default
     </div>
   </div>
 
-  <div id="blog" class="row section">
+  <div id="News" class="row section">
         <h3>Blog</h3>
         <hr>
-        <p>Read our blog to follow the fellowship and learn about our projects.
+        <p>Read our <a href="/blog"></a>blog</a> to follow the fellowship and learn about our projects.
         {% for post in site.posts limit:10 %}
-          {% unless post.type == 'org' or post.type == 'event' %}
+          {% if post.type == 'news' %}
             <article>
               <h4 class="post-title"><a href="{{ site.base_url }}{{ post.url }}">{{ post.title }}</a></h4>
               <p class="post-date-author">{{ post.date | date_to_string }} - {{ post.author }}</p>
@@ -76,8 +76,8 @@ layout: default
         <div class="span8">
         </div>
         <div class="span3">
-          <a href="/blog/" class="btn btn-huge btn-block btn-embossed btn-danger">
-            Read More Posts →
+          <a href="/news/" class="btn btn-huge btn-block btn-embossed btn-danger">
+            Read More News →
           </a>
         </div>
     </div>
