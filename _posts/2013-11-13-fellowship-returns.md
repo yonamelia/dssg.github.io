@@ -6,8 +6,7 @@ layout: post
 title: Data Science for Social Good Summer Fellowship to return for 2014
 ---
 
-## Data Science for Social Good Summer Fellowship to return for 2014
-### Program seeks fellows, mentors and partners; workshop set for November
+### Program seeks fellows, mentors and partners
 
 After a successful first summer, in which aspiring data scientists from around the world completed innovative data and analytics projects with non-profit and government partners, the Eric & Wendy Schmidt Data Science for Social Good Summer Fellowship will return with a new class of fellows, mentors and project partners in 2014.
 
