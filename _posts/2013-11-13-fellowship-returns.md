@@ -1,8 +1,9 @@
 ---
 published: true
 type: news
-Author: Rob Mitchum
+author: Rob Mitchum
 layout: post
+title: Data Science for Social Good Summer Fellowship to return for 2014
 ---
 
 ## Data Science for Social Good Summer Fellowship to return for 2014
