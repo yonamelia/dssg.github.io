@@ -1,5 +1,6 @@
 ---
 published: "true"
+type: news
 layout: post
 title: The Fellowship and the Fellows
 author: "Juan-Pablo Velez, Matt Gee, Rayid Ghani"

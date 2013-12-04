@@ -1,5 +1,6 @@
 ---
 layout: post
+type: news
 title: "DSSG Fellowship Planning Workshop: Nov 14-15"
 author: "Rayid Ghani"
 published: true

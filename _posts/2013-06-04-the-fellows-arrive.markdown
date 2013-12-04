@@ -1,5 +1,6 @@
 ---
 published: true
+type: news
 layout: post
 title: The Fellows Arrive
 author: Juan-Pablo Velez
