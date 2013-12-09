@@ -44,7 +44,7 @@ Although growth charts are great way of comparing a child’s height, weight, an
 
 - Second, kids have different growth patterns, going through growth spurts and puberty at different times. For example, late bloomers might have higher BMIs compared to their peers right before they go into puberty. These same children might subsequently have *lower* BMIs than their peers after puberty, having grown taller in a short amount of time. Simply comparing a child’s measurements to the population average would not account for this.
 
-We wondered if these same measurements could be used detect obesity in a more forward-looking and child-specific way. So we created an analytics tool for pediatricians to better detect kids who are likely to become obese as they age. In addition to **searching for worrisome fluctuations**, our tool draws on data from thousands of similar children to **predict a child’s growth path** a few years into the future. 
+We wondered if these same measurements could be used to detect obesity in a more forward-looking and child-specific way. So we created an analytics tool for pediatricians to better detect kids who are likely to become obese as they age. In addition to **searching for worrisome fluctuations**, our tool draws on data from thousands of similar children to **predict a child’s growth path** a few years into the future. 
 
 A physician can use this information to start interventions -- such as changing the child’s nutrition and exercise routines -- earlier in the kid’s life. And parents can visualize their child’s future height and weight if they maintain their current habits, amplifying the pediatrician’s warnings and perhaps making them more likely to adopt healthy habits.
 
