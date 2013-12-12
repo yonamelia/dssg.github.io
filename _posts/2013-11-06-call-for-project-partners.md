@@ -48,11 +48,11 @@ In some cases, it may be possible to start collaborative work on a problem befor
 
 **Deadlines:**
 
-Initial Expression of Interest: December 10, 2013
+Initial Expression of Interest: Extended to January 10, 2013
 
-Initial Response from us: January 5, 2014
+Initial Response from us: January 20, 2014
 
-Formal Proposal Deadline: February 1, 2014
+Formal Proposal Deadline: February 10, 2014
 
 Final Decisions: March 1, 2014
 
