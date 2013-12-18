@@ -48,7 +48,7 @@ In some cases, it may be possible to start collaborative work on a problem befor
 
 **Deadlines:**
 
-Initial Expression of Interest: Extended to January 10, 2013
+Initial Expression of Interest: Extended to January 10, 2014
 
 Initial Response from us: January 20, 2014
 
