@@ -27,6 +27,8 @@ Ideal project partners have
 
 3. the ability to use the fellows’ solution to make a meaningful social impact.
 
+What you get by being part of the fellowship is a team of 3-6 fellows led by a mentor who will work on *your* project for 3 months during the summer. This team will primariliy be based in our downtown chicago office, working together with all the other fellows in the program so everyone else will also get familiar with your problem and contribute over the summer. If you're based in Chicago, we will have frequent physical interactions with you. If you're based elsewhere, we will schedule frequent virtual collaboration sessions but hope that you will come visit as well.
+
 
 **If you think your organization would be a good fit for the Summer 2014 Fellowship, please follow the instructions below to submit a project proposal**. If you know of any organizations that would benefit from being a project partner with Data Science for Social Good, please forward this call for projects along to them.
 
@@ -45,6 +47,8 @@ Proposals should contain a brief problem description, and should address each of
 -	**Post-Fellowship Usage**: Partners should identify a path for using the fellows’ work and/or developing it further.
 
 In some cases, it may be possible to start collaborative work on a problem before the fellowship begins, and/or to continue work after the summer. Therefore, if you have a proposal for a longer-term project that may not fit in a three-month program, feel free to discuss it in your proposal.
+
+If you have multiple projects in mind, please propose all of them and we will contact you to figure out which one(s) will be a good fit.
 
 **Deadlines:**
 
