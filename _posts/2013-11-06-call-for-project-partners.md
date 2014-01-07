@@ -27,7 +27,9 @@ Ideal project partners have
 
 3. the ability to use the fellows’ solution to make a meaningful social impact.
 
-What you get by being part of the fellowship is a team of 3-6 fellows led by a mentor who will work on *your* project for 3 months during the summer. This team will primariliy be based in our downtown chicago office, working together with all the other fellows in the program so everyone else will also get familiar with your problem and contribute over the summer. If you're based in Chicago, we will have frequent physical interactions with you. If you're based elsewhere, we will schedule frequent virtual collaboration sessions but hope that you will come visit as well.
+**What you get**
+
+By being part of the fellowship, you get a team of 3-6 data science fellows led by a mentor who will work on *your* project for 3 months during the summer. This team will primarily be based in our downtown chicago office, working together with all the other fellows in the program so everyone else will also get familiar with your problem and contribute over the summer. If you're based in Chicago, we will have frequent physical interactions with you. If you're based elsewhere, we will schedule frequent virtual collaboration sessions but hope that you will come visit as well.
 
 
 **If you think your organization would be a good fit for the Summer 2014 Fellowship, please follow the instructions below to submit a project proposal**. If you know of any organizations that would benefit from being a project partner with Data Science for Social Good, please forward this call for projects along to them.
