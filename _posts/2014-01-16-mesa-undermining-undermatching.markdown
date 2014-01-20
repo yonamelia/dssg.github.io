@@ -44,7 +44,7 @@ Many of the students who attend community college are actually undermatching and
 
 These are students who are in the top 25% of their high school class, and who do well enough on a math placement exam to get into college calculus. The community college graduation rate among these top students is much higher than the average graduation rate, but it’s still only around 50%, which is lower than the national average graduation rate for four-year colleges. 
 
-And that’s for the top students. For low-achieving students - who rank in the lowest 25% of the class and place into the lowest math class - the graduation rate from community college is a dismal 5%.  
+And that’s for the top students. For low-achieving students -- who rank in the lowest 25% of the class and place into the lowest math class -- the graduation rate from community college is a dismal 5%.  
 
 So Mesa has a lot of students who need to be better prepared for the challenges of community college. But among its community college attendees, there are also high achievers who might benefit from going to a four-year college instead. 
 
