@@ -24,7 +24,7 @@ Using open data from the [City of Chicago Data Portal](https://data.cityofchicag
 
 <img src="/img/posts/cdot-outage-duration.png">
 
-As seen in the plots, outages are repaired quickly, while a small number of outages last much longer.  Also, street light (all out) outages are repaired more rapidly than the other two outage types.  Street light (all out) outages have a mean duration of about 5 days, whereas street light (one out) outages last 11 days on average, and alley light outages last an average of 15 days.
+As seen in the plots, most outages are repaired quickly, while a small number of outages last much longer.  Also, street light (all out) outages are repaired more rapidly than the other two outage types.  Street light (all out) outages have a mean duration of about 5 days, whereas street light (one out) outages last 11 days on average, and alley light outages last an average of 15 days.
 
 To demonstrate patterns in outages and crime over time, the two charts below plot the number of outages and crimes by month between April 2012 and July 2013, both based upon data from the City of Chicago Data Portal.
 
