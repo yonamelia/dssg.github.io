@@ -6,9 +6,9 @@ slug: edf
 img: 
   - edf.jpg
 website: 
-  - "http://www.cleanenergyfinancecenter.org/"
+  - "http://www.eeperformance.org/open-data.html"
 project: Predicting building energy loan performance
-wiki: https://github.com/dssg/EDF/wiki
+wiki: http://www.eeperformance.org/open-data.html
 repo: https://github.com/dssg/EDF/
 ---
 
