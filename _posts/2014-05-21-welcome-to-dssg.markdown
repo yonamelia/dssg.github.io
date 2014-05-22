@@ -1,5 +1,6 @@
 ---
 layout: post
+type: news
 title: Welcome to Data Science for Social Good 2014
 author: Rob Mitchum
 pic: "dssg-collage.jpg"
