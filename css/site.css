@@ -419,9 +419,10 @@ p {
 /*Make post images full fize, give them comfy bottom margin to separate from text*/
 #post img {
         display: block;
-        margin-right: auto;
-        margin-left: auto;
-        margin-bottom: 30px;
+        margin-top: 10px;
+        margin-right: 20px;
+        margin-left: 20px;
+        margin-bottom: 10px;
 }
 
 /* CONTACT PAGE */
