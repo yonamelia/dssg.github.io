@@ -57,12 +57,12 @@ layout: default
         <hr>
         <p>Read our <a href="/blog">blog</a> to follow the fellowship and learn about our projects.
         {% for post in site.posts limit:10 %}
-          {% if post.type == 'news' %}
+          
             <article>
               <h4 class="post-title"><a href="{{ site.base_url }}{{ post.url }}">{{ post.title }}</a></h4>
               <p class="post-date-author">{{ post.date | date_to_string }} - {{ post.author }}</p>
             </article>
-          {% endif %}
+         
         {% endfor %}
         <div class="span8">
         </div>
