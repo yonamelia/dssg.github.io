@@ -20,7 +20,7 @@ Working with data on major contract awards and projects, we will help develop a 
 
 **Mentor**: Eric Rozier
 
-**Fellows**: Carlos Petricioli, Misha Teplitskiy, Dylan Fitzpatrick, Jeff Alstott
+**Fellows**: Jeff Alstott, Dylan Fitzpatrick, Carlos Petricioli, Misha Teplitskiy
 
 <h4><a href="http://www.cps.edu/">Chicago Public Schools</a> - Student Enrollment Prediction for Budget Allocation</h4>
 <p></p>
@@ -32,7 +32,7 @@ We’re working with CPS to develop a better model that more accurately predicts
 
 **Mentor**: Joe Walsh
 
-**Fellows**: Vanessa Ko, Andrew Landgraf, Zhou Ye, Tracy Schifeling
+**Fellows**: Vanessa Ko, Andrew Landgraf, Tracy Schifeling, Zhou Ye
 
 <h4><a href="http://harrisschool.uchicago.edu/">Harris School of Public Policy</a>, <a href="http://sunlightfoundation.com/">Sunlight Foundation</a> - Text Analysis of Government Spending Bills to Understand Pork Spending</h4>
 <p></p>
@@ -45,5 +45,4 @@ With <a href="http://harrisschool.uchicago.edu/directory/faculty/christopher_ber
 
 **Mentor**: Joe Walsh
 
-**Fellows**: Ellery Wulczyn, Matthew Heston, Vrushank Vora, Madian Khabsa
-
+**Fellows**: Matthew Heston, Madian Khabsa, Vrushank Vora, Ellery Wulczyn
