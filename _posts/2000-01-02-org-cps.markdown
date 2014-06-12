@@ -1,0 +1,9 @@
+---
+type: org14
+org: Chicago Public Schools
+slug: cps
+img: cps.png
+website: ['http://www.cps.edu']
+project: Student Enrollment Prediction for Budget Allocation
+---
+
