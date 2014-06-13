@@ -7,7 +7,7 @@ website: ['http://www.cps.edu']
 project: Student Enrollment Prediction for Budget Allocation
 ---
 
-Each spring, Chicago Public Schools allocates $1.8 billion to the hundreds of public schools in its system. To determine where to distribute that money, CPS must predict next year’s enrollment for each school months ahead of time, then adjust budgets two to three weeks into the school year when the actual enrollment numbers are set. Large discrepancies between projected enrollment and the real numbers lead to large adjustments in funding, which can disrupt teachers and students.
+Each spring, **Chicago Public Schools** allocates $1.8 billion to the hundreds of public schools in its system. To determine where to distribute that money, CPS must predict next year’s enrollment for each school months ahead of time, then adjust budgets two to three weeks into the school year when the actual enrollment numbers are set. Large discrepancies between projected enrollment and the real numbers lead to large adjustments in funding, which can disrupt teachers and students.
 
 We’re working with CPS to develop a better model that more accurately predicts next year’s enrollment for each school in the system. The project team will work with data from CPS on student, school, and staff attributes, as well as other data sources (including publicly available crime data, housing data, and economic development data) to develop a frequently-updating model that will lower the amount of money shuffled each school year, and reduce the number of schools that face major re-allocations of funding.
 
