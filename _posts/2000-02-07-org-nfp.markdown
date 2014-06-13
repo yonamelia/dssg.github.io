@@ -1,0 +1,17 @@
+---
+type: org14
+org: Nurse-Family Partnership
+slug: nfp
+img: nfp.jpg
+website: ['http://www.nursefamilypartnership.org/']
+project: Optimizing Treatment for Expectant Mothers
+---
+
+**Nurse-Family Partnership (NFP)** is an evidence-based community health program that provides first-time, low-income mothers with regular home visits from registered nurses, through pregnancy and the first two years of their child’s life. These visits promote healthy pregnancies, child care, and economic self-sufficiency in vulnerable populations during a critical time in a mother and child’s life. The program has been rigorously tested in randomized controlled trials since 1977, and nurses collect extensive data about their visits and family outcomes.
+ 
+<a href="http://dssg.uchicago.edu/2013/07/31/the-match-game.html">Last year</a>, DSSG helped NFP find new ways to measure its effectiveness in different communities, combining the organization’s data with national demographic data to assess how the nurse visits affect measures such as the child’s vaccination and the mother’s employment and economic status. This summer, we will build an outcomes dashboard for NFP to monitor their performance on various measures and with different regional and demographic populations. The team will also build a “client triage” model that identifies mothers who may benefit the most from NFP’s program, and examine how different frequencies of home visits affect mother and child outcomes. The results will give NFP a clearer understanding of the target population that they can best serve, and the optimal “dosage” of nurse visits to benefit the families they assist.
+
+**Mentor**: Young-Jin Kim
+
+**Fellows**: Rafael Turner, Sarah Tan, Jeff Lockhart, Sarah Abraham
+ 
