@@ -1,0 +1,16 @@
+---
+type: org14
+org: IRI
+slug: iri
+img: [iri.jpg]
+website: ['http://www.iriworldwide.com/']
+project: Analyzing Consumer Purchase Data to Reduce Food Waste
+---
+
+Every year, 43 billion pounds of expiring food are thrown out by retailers and grocery stores because no system exists to effectively redistribute those products. IRI is a market research firm that collects seller and shopper information and provides predictive analytics for the retail industry. They collect transaction- and product-level data from large grocery chains (and directly from consumers) to model consumer demand, but this data can also be used to develop a new system for connecting stores with potential recipients of surplus products to divert some of the excess from landfills to consumers and charities.
+
+Our project will help construct the system that facilitates these transactions. The system will enable retailers with surplus food to easily locate individuals, food banks, schools, and other organizations that will accept or purchase these products. Based on predicted measures of excess inventory and the customer's demographics – such as income, organization type, and location – the exchange will find the most likely recipients near the seller. By making this process easier for both retailers and food banks, we hope to develop a tool that reduces waste and feeds the hungry.
+
+*Mentor*: Ben Yuhas
+
+*Fellows*: Eric Potash, Julius Adebayo, Layla Pournajaf, Nick Eng
