@@ -13,6 +13,6 @@ Medicine by itself cannot always provide us with health. If a sick child lives i
 
 However, maintaining relationships with patients who live in an unstable environment presents a unique challenge for Health Leads. This summer, we will help them improve sustained engagement, determining why some clients are actively engaged, why others disengage, and what effective strategies Health Leads can pursue.  Using the organization's client engagement data, service provider data, and patient demographics, the DSSG team will find effective ways to reduce the dropout rate and increase responsiveness, exploring different methods of communication. By discovering strategies to improve patient responsiveness, the project will help Health Leads advocates strengthen their relationship with clients and ensure that the most needed resources are effectively delivered.
 
-*Mentor*: Young-Jin Kim
+**Mentor**: Young-Jin Kim
 
-*Fellows*: Isaac McCreery, Cindy Chen, Carl Shan, Chris Bopp
+**Fellows**: Isaac McCreery, Cindy Chen, Carl Shan, Chris Bopp
