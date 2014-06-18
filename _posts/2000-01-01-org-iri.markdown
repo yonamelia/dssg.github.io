@@ -1,0 +1,9 @@
+---
+type: org14
+org: IRI
+slug: iri
+img: [iri.jpg]
+website: ['http://www.iriworldwide.com/']
+project: Analyzing Consumer Purchase Data to Reduce Food Waste
+---
+
