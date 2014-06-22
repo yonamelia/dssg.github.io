@@ -22,7 +22,7 @@ With data on city revenue and spending, we will help the City of Memphis develop
 
 **Mentor**: Tom Plagge
 
-**Fellows**: Ben Green, Matt Conway Alejandra Caro, Robert Manduca
+**Fellows**: Alejandra Caro, Matt Conway, Ben Green, Robert Manduca
 
 <h4><a href="https://healthleadsusa.org/">Health Leads</a> - Improving Social Services Interactions</h4>
 <p></p>
@@ -36,7 +36,7 @@ However, maintaining relationships with patients who live in an unstable environ
 
 **Mentor**: Young-Jin Kim
 
-**Fellows**: Isaac McCreery, Cindy Chen, Carl Shan, Chris Bopp
+**Fellows**: Chris Bopp, Cindy Chen, Isaac McCreery, Carl Shan 
 
 <h4><a href="http://www.allchicago.org/division/chicago-alliance">Chicago Alliance to End Homelessness</a> - Effectiveness of Intervention Strategies on the Homeless</h4>
 <p></p>
@@ -48,6 +48,6 @@ DSSG Fellows will investigate the housing interventions prescribed by Plan 2.0, 
 
 **Mentor**: Young-Jin Kim
 
-**Fellows**: Isaac McCreery, Cindy Chen, Carl Shan, Chris Bopp
+**Fellows**: Chris Bopp, Cindy Chen, Isaac McCreery, Carl Shan
 
 [not an error, this team will tackle two projects]
