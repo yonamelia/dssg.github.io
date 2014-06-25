@@ -1,9 +1,0 @@
----
-type: org14
-org: Chicago Department of Public Health
-slug: cdph
-img: cdph.png
-website: ['http://www.cityofchicago.org/city/en/depts/cdph.html']
-project: Targeting Proactive Public Health Inspections
----
-

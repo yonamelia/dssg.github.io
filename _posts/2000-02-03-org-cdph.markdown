@@ -1,0 +1,18 @@
+---
+type: org14
+org: Chicago Department of Public Health
+slug: cdph
+img: cdph.png
+website: ['http://www.cityofchicago.org/city/en/depts/cdph.html']
+project: Targeting Proactive Public Health Inspections
+---
+
+Lead paint and leaded gasoline were banned in the United States in the 1970s because of the enormous public health dangers lead poses. In the decades since, it has become clear that even small amounts of exposure to lead during childhood can cause behavior or attention problems, learning difficulties, speech and language problems, reduced IQ and failure at school. 
+
+Over the past several decades, Chicago has made great strides in preventing exposure to lead. Even with this progress, there is more work to be done.  In 2013, it is estimated that almost 9000 children in Chicago had been exposed to levels of lead that the CDC classifies as dangerous, and that most of this exposure happened in the home. 
+
+DSSG has partnered with the **Chicago Department of Public Health** to help find the homes that are most likely to still contain lead-based paint hazards. By building statistical models that predict exposure based on evidence such as the age of a house,  the history of children’s exposure at that address, and economic conditions of the neighborhood, CDPH and their partners can link high-risk children and pregnant women to inspection and lead-based paint mitigation funding before any harm is done. This integrated and innovative system will ensure resources are used most efficiently, and ultimately will mean healthier Chicago children.
+
+*Mentor*: Eric Rozier
+
+*Fellows*: Alex Loewi, Subhabrata Majumdar, Joe Brew, Andrew Reece
