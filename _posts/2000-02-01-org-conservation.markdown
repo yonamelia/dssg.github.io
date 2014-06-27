@@ -7,7 +7,7 @@ website: ['http://www.conservation.org/']
 project: Using Sensor Data to Inform and Evaluate Environmental Initiatives
 ---
 
-Conservation International (CI) is a non-profit organization that works to protect nature through scientific research and partnerships with communities, industry, and governments. A key aspect for evaluating the impact of conservation projects is to account for natural capital -- ecosystem goods and services, such as fresh water, flood control, agriculture, and forest products. 
+**Conservation International (CI)** is a non-profit organization that works to protect nature through scientific research and partnerships with communities, industry, and governments. A key aspect for evaluating the impact of conservation projects is to account for natural capital -- ecosystem goods and services, such as fresh water, flood control, agriculture, and forest products. 
 
 The Tropical Ecology, Assessment and Monitoring (TEAM) Network, originally created by CI, is now a partnership among CI, the Smithsonian Institution, and the Wildlife Conservation Society. TEAM’s global network of scientists is collecting and distributing near-real-time data on trends in biodiversity, climate, land cover change and ecosystem services. In many sites, TEAM collects sensor data to understand the status of tropical ecosystems in terms of meteorological variables, vegetation, and wildlife in the tropical forest. When triggered by motion, camera traps deployed throughout these sites take a photograph and record the temperature.
 
