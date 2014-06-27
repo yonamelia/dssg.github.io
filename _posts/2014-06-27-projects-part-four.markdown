@@ -6,9 +6,9 @@ pic: "montgomery.JPG"
 published: true
 ---
 
-It's hard to believe we're already a third of the way through the summer. During a foggy week where Chicago did its best impression of San Francisco, the DSSG fellows started to transition from exploring and cleaning their data to conducting deeper analyses and constructing new tools to attack their partners' problems. Visits from Abhi Nehmani of Code for America and GovLoop and John Myles White of Facebook pushed the fellows to think more deeply about how the balance between extracting pure information from data and using those insights to make a practical real-world impact. 
+It's hard to believe we're already a third of the way through the summer. During a foggy week where Chicago did its best impression of San Francisco, the DSSG fellows started to transition from exploring and cleaning their data to conducting deeper analyses and constructing new tools to attack their partners' problems. Visits from Abhi Nehmani of Code for America and GovLoop and John Myles White of Facebook pushed the fellows to think more deeply about the balance between extracting new information from data and using those insights to make a practical real-world impact. 
 
-The following three projects offer local, national, and global opportunities to extract beneficial change from data: helping children in Chicago avoid lead exposure, helping students in Rockville, Maryland achieve their full educational potential, helping researchers in Volcan Barva in Costa Rica learn the full value of the ecosystems they study and protect.  
+The following three projects offer local, national, and global opportunities to extract beneficial change from data: helping children in Chicago avoid lead exposure, helping students in Rockville, Maryland achieve their full educational potential, helping researchers at Volcan Barva in Costa Rica learn the full value of the ecosystems they study and protect.  
 
 <h4><a href="http://www.cityofchicago.org/city/en/depts/cdph.html">Chicago Department of Public Health</a> - Targeting Proactive Public Health Inspections</h4>
 <p></p>
@@ -28,11 +28,11 @@ DSSG has partnered with the **Chicago Department of Public Health** to help find
 <p></p>
 <img src="/img/partners/mcps.png">
 
-To ensure that all students are on track for success beginning in the primary years, Montgomery County Public Schools in Rockville, Maryland built their own “early warning” model to identify students who are not making sufficient academic progress using data on grades, attendance, and other measures.
+To ensure that all students are on track for success beginning in the primary years, **Montgomery County Public Schools in Rockville, Maryland** built their own “early warning” model to identify students who are not making sufficient academic progress using data on grades, attendance, and other measures.
  
 We will help the MCPS administrators validate and improve their model, using new sources of student-level data. In addition, we will look to broaden the objective to look at other measures of academic success.
  
-In addition, the Data Science project will build upon [last year’s work with Mesa Public Schools](http://dssg.uchicago.edu/2014/01/16/mesa-undermining-undermatching.html), which sought to identify students not achieving their college potential. Each year across America, students consistently under-enroll in colleges – leading to lost college potential. MCPS hopes to improve the college going rate of its students and the caliber of institutions they attend.
+The Data Science project will also build upon [last year’s work with Mesa Public Schools](http://dssg.uchicago.edu/2014/01/16/mesa-undermining-undermatching.html), which sought to identify students not achieving their college potential. Each year across America, students consistently under-enroll in colleges – leading to lost college potential. With help from DSSG, MCPS hopes to improve the college going rate of its students and the caliber of institutions they attend.
 
 *Mentor*: Ben Yuhas
 
@@ -42,11 +42,11 @@ In addition, the Data Science project will build upon [last year’s work with M
 <p></p>
 <img src="/img/partners/conservation.png">
 
-Conservation International (CI) is a non-profit organization that works to protect nature through scientific research and partnerships with communities, industry, and governments. A key aspect for evaluating the impact of conservation projects is to account for natural capital -- ecosystem goods and services, such as fresh water, flood control, agriculture, and forest products. 
+**Conservation International (CI)** is a non-profit organization that works to protect nature through scientific research and partnerships with communities, industry, and governments. A key aspect for evaluating the impact of conservation projects is to account for natural capital -- ecosystem goods and services, such as fresh water, flood control, agriculture, and forest products. 
 
-The Tropical Ecology, Assessment and Monitoring (TEAM) Network, originally created by CI, is now a partnership among CI, the Smithsonian Institution, and the Wildlife Conservation Society. TEAM’s global network of scientists is collecting and distributing near-real-time data on trends in biodiversity, climate, land cover change and ecosystem services. In one effort, TEAM collects sensor data to understand the status of tropical ecosystems in terms of meteorological variables, vegetation, and wildlife in the tropical forest. When triggered by motion, camera traps deployed throughout these sites take a photograph and record the temperature.
+The Tropical Ecology, Assessment and Monitoring (TEAM) Network, originally created by CI, is now a partnership among CI, the Smithsonian Institution, and the Wildlife Conservation Society. TEAM’s global network of scientists is collecting and distributing near-real-time data on trends in biodiversity, climate, land cover change and ecosystem services. In many sites, TEAM collects sensor data to understand the status of tropical ecosystems in terms of meteorological variables, vegetation, and wildlife in the tropical forest. When triggered by motion, camera traps deployed throughout these sites take a photograph and record the temperature.
 
-To help CI get the most information from this sensor network, we will develop an algorithm for interpolating and extrapolating camera trap data to generate micro-climate information for protected sites. TEAM will be able to use the algorithm to better understand how micro-climate changes are related to the patterns of movement of vertebrate species that have a very narrow temperature window of comfort.  The project will help CI and other environmental organizations understand how this high-resolution, spatiotemporal data can assist current and future monitoring initiatives.
+To help TEAM get the most information from this sensor network, we will develop an algorithm for interpolating and extrapolating camera trap data to generate micro-climate information for protected sites. TEAM will be able to use the algorithm to better understand how micro-climate changes are related to the patterns of movement of vertebrate species that have a very narrow temperature window of comfort.  The project will help CI and other environmental organizations understand how this high-resolution, spatiotemporal data can assist current and future monitoring initiatives.
 
 *Mentor*: Varun Chandola
 
