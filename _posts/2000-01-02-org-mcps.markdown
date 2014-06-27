@@ -1,9 +1,0 @@
----
-type: org14
-org: Montgomery County (MD) Public Schools
-slug: mcps
-img: mcps.png
-website: ['http://www.montgomeryschoolsmd.org/']
-project: Increasing Graduation Rates and Improving College Readiness for High School Students
----
-
