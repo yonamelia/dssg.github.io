@@ -12,3 +12,7 @@ To ensure that all students are on track for success beginning in the primary ye
 We will help the MCPS administrators validate and improve their model, using new sources of student-level data. In addition, we will look to broaden the objective to look at other measures of academic success.
  
 In addition, the Data Science project will build upon [last year’s work with Mesa Public Schools](http://dssg.uchicago.edu/2014/01/16/mesa-undermining-undermatching.html), which sought to identify students not achieving their college potential. Each year across America, students consistently under-enroll in colleges – leading to lost college potential. MCPS hopes to improve the college going rate of its students and the caliber of institutions they attend.
+
+**Mentor**: Ben Yuhas
+
+**Fellows**: David Miller, Nasir Bhanpuri, Everaldo Aguiar, Himabindu Lakkaraju
