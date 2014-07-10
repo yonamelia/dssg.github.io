@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Tract Values over Time</title>
+     <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+     <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+     
+     <style type="text/css">
+       body { font-family: sans; margin: 0; padding: 0 }
+       #map { margin: 0px; padding: 0px; }
+       .controls { padding: 6px; background-color: #fff; border: 1px solid #000 }
+       #legend { position: fixed; right: 10px; top: 10px; }
+       .legitem { border: 1px solid #777; width: 30px; height: 15px; display: inline-block }
+       #legend ul { list-style-type: none }
+       #yearcontrols { position: fixed; bottom: 10px; left: 10px }
+     </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    
+    <div id="legend" class="controls">
+      <h2>Legend</h2>
+      <h3>Change in median property value</h3>
+      <h3>per lot square foot</h3>
+      <ul>
+	<li><span class="legitem" style="background-color: #2c7bb6"></span> &gt;30% increase</li>
+	<li><span class="legitem" style="background-color: #abd9e9"></span> 10%&ndash;30% increase</li>
+	<li><span class="legitem" style="background-color: #eee"></span> 10% decrease&ndash;10% increase</li>
+	<li><span class="legitem" style="background-color: #fdae61"></span> 10%&ndash;30% decrease</li>
+	<li><span class="legitem" style="background-color: #d7191c"></span> &gt;30% decrease</li>
+      </ul>
+    </div>
+
+    <div id="yearcontrols" class="controls">
+      <form>
+	<label for="fromYear">From year:</label>
+	<input id="fromYear" class="year" type="range" min="2005" max="2013" value="2005"/>
+	<output id="fromYearOut" for="fromYear"></output>
+      
+	<label for="toYear">To year:</label>
+	<input id="toYear" class="year" type="range" min="2005" max="2013" value="2013"/>
+	<output id="toYearOut" for="toYear"></output>
+      </form>
+    </div>
+
+     <script type="text/javascript">
+       var tractLayer;
+
+       // calculate the color for a given tract based on percentage change from the start to the end year
+       function getTractColor (row) {
+	 var fromYear = $('#fromYear').val();
+	 var toYear = $('#toYear').val();
+
+         var year1 = row.properties['tract_median_values_medvalperlotsqft' + fromYear];
+         var year2 = row.properties['tract_median_values_medvalperlotsqft' + toYear];
+         var pctchg = year2 / year1 - 1;
+
+         var color;
+         if (pctchg > .3) color = '#2c7bb6';
+         else if (pctchg > .1) color = '#abd9e9';
+	 else if (pctchg > -.1) color = '#eee';
+	 else if (pctchg > -.3) color = '#fdae61';
+	 else color = '#d7191c';
+
+	 return {fillColor: color, fill: true, fillOpacity: 0.8, color: '#777', opacity: 0.8, weight: 1};
+       }
+
+       // unfortunately leaflet doesn't work with relative/percentage sizes :(
+       // so we handle resizing manually
+       $(window).resize(function () {
+         $('#map').width($(window).width()).height($(window).height());
+       });
+       $(window).resize();
+
+       var map = L.map('map').setView([35.1291,-89.9727], 12);
+       L.tileLayer('http://otile1.mqcdn.com/tiles/1.0.0/map/{z}/{x}/{y}.jpg').addTo(map);
+
+       // get the data
+       $.ajax({
+         url: 'tracts.geojson', 
+         dataType: 'json', 
+         success: function (data) {
+           tractLayer = L.geoJson(data, {style: getTractColor}).addTo(map);
+	   $('#fromYear').change();  
+         }
+       });
+
+       // give credit where credit is due
+       map.attributionControl.addAttribution('Value data courtesy City of Memphis');
+       map.attributionControl.addAttribution('Tract data courtesy U.S. Census Bureau');
+       map.attributionControl.addAttribution('Basemap &copy; OpenStreetMap Contributors');
+       map.attributionControl.addAttribution('Tiles courtesy <a href="http://www.mapquest.com">MapQuest</a>');
+       map.attributionControl.addAttribution('Colors courtesy <a href="http://www.colorbrewer2.com">ColorBrewer</a>');
+
+       // react to user input
+       $('.year').change(function () {
+	   var fromYear = $('#fromYear').val()
+	   var toYear = $('#toYear').val()
+	   // there is no data for 2006 or 2007
+	   if (fromYear == 2006) $('#fromYear').val(2005);
+	   if (fromYear == 2007) $('#fromYear').val(2008);
+	   if (toYear == 2006) $('#toYear').val(2005);
+	   if (toYear == 2007) $('#toYear').val(2008);
+
+	   // don't allow fromYear > toYear as this gives misleading results (all changes are
+	   // multiplied by -1). Just reverse them as that's probably what the user wanted anyhow.
+	   if (fromYear > toYear) {
+	       $('#toYear').val(fromYear);
+	       $('#fromYear').val(toYear);
+	   }
+
+	   var fromYear = $('#fromYear').val()
+	   var toYear = $('#toYear').val()
+	   $('#fromYearOut').text(fromYear);
+	   $('#toYearOut').text(toYear);
+
+	   // redraw the layer with the updated colors
+	   tractLayer.setStyle(getTractColor);
+       });
+     </script>
+  </body>
+</html>
