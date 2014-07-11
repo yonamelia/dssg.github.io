@@ -15,4 +15,4 @@ To help TEAM get the most information from this sensor network, we will develop 
 
 **Mentor**: Varun Chandola
 
-**Fellows**: Scott Cambo, Nadya Calderon, Christopher Lazarus, Raphael Stern
+**Fellows**: Nadya Calderon, Scott Cambo, Christopher Lazarus, Raphael Stern

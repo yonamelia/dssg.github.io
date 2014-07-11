@@ -15,4 +15,4 @@ However, maintaining relationships with patients who live in an unstable environ
 
 **Mentor**: Young-Jin Kim
 
-**Fellows**: Isaac McCreery, Cindy Chen, Carl Shan, Chris Bopp
+**Fellows**: Chris Bopp, Cindy Chen, Isaac McCreery, Carl Shan

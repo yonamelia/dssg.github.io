@@ -13,4 +13,4 @@ The two organizations are working together to help identify and engage Illinoisâ
 
 **Mentor**: Tom Plagge
 
-**Fellows**: Sam Zhang, James Savage, Peter Landwehr, Diana Palsetia
+**Fellows**: Peter Landwehr, Diana Palsetia, James Savage, Sam Zhang

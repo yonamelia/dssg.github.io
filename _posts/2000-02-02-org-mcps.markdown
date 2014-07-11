@@ -15,4 +15,4 @@ The DSSG project will also build upon [last year’s work with Mesa Public Schoo
 
 **Mentor**: Ben Yuhas
 
-**Fellows**: David Miller, Nasir Bhanpuri, Everaldo Aguiar, Himabindu Lakkaraju
+**Fellows**: Everaldo Aguiar, Nasir Bhanpuri, Himabindu Lakkaraju, David Miller

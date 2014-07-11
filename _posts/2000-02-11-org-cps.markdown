@@ -13,4 +13,4 @@ We’re working with CPS to develop a better model that more accurately predicts
 
 **Mentor**: Joe Walsh
 
-**Fellows**: Vanessa Ko, Andrew Landgraf, Zhou Ye, Tracy Schifeling
+**Fellows**: Vanessa Ko, Andrew Landgraf, Tracy Schifeling, Zhou Ye

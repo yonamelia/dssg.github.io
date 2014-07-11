@@ -13,4 +13,4 @@ Our goal is to identify those factors contributing to maternal mortality and det
 
 **Mentor**: Ben Yuhas
 
-**Fellows**: Eric Potash, Julius Adebayo, Layla Pournajaf, Nick Eng
+**Fellows**: Julius Adebayo, Nick Eng, Eric Potash, Layla Pournajaf

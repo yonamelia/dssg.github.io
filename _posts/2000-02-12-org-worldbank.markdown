@@ -13,4 +13,4 @@ Working with data on major contract awards and projects, we will help develop a 
 
 **Mentor**: Eric Rozier
 
-**Fellows**: Carlos Petricioli, Misha Teplitskiy, Dylan Fitzpatrick, Jeff Alstott
+**Fellows**: Jeff Alstott, Dylan Fitzpatrick, Carlos Petricioli, Misha Teplitskiy  

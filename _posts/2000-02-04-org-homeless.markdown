@@ -13,4 +13,4 @@ DSSG Fellows will investigate the housing interventions prescribed by Plan 2.0, 
 
 **Mentor**: Young-Jin Kim
 
-**Fellows**: Isaac McCreery, Cindy Chen, Carl Shan, Chris Bopp
+**Fellows**: Chris Bopp, Cindy Chen, Isaac McCreery, Carl Shan 

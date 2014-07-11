@@ -13,4 +13,4 @@ With <a href="http://harrisschool.uchicago.edu/directory/faculty/christopher_ber
 
 **Mentor**: Joe Walsh
 
-**Fellows**: Ellery Wulczyn, Matthew Heston, Vrushank Vora, Madian Khabsa
+**Fellows**: Matthew Heston, Madian Khabsa, Vrushank Vora, Ellery Wulczyn

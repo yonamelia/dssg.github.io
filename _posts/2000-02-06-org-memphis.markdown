@@ -13,4 +13,4 @@ With data on city revenue and spending, we will help the City of Memphis develop
 
 **Mentor**: Tom Plagge
 
-**Fellows**: Ben Green, Matt Conway Alejandra Caro, Robert Manduca
+**Fellows**: Alejandra Caro, Matt Conway, Ben Green, Robert Manduca
