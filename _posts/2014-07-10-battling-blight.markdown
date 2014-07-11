@@ -5,11 +5,11 @@ author: Ben Green
 pic: "memphis-apt.jpeg"
 published: true
 ---
+<img src="/img/posts/memphis-team.png">
+
 To most people, Memphis, Tennessee evokes images of Elvis, Beale Street, and BBQ. But like many American cities, Memphis also faces a legacy of urban planning dominated by suburban growth and automobile transportation. Since 1970, the City of Memphis’s population has grown by 4 percent while the geographic area has increased by 55 percent, leaving the city with a hollowing core and sprawling population. A recent report about the city declared, “Memphis literally does not have the financial resources to continue with this pattern of growth.” 
 
 This summer, my DSSG team will work with the [Mayor’s Innovation Delivery Team (MIDT)](http://innovatememphis.com/) in Memphis to help them use data to make policy and investment decisions and spur economic development.
-
-<img src="/img/posts/memphis-team.png">
 
 For the first few weeks of the summer, my teammates and I explored demographic and property assessment data and researched Memphis’s development since 1950. One of my main concerns for the project was that we would be merely “numbers people,” advising Memphis without any true knowledge of the city. So we were very excited that our partners in Memphis invited us to travel from Chicago for a two-day visit, where would meet many of the talented people working on new solutions for the city’s challenges.
 

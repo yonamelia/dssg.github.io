@@ -6,11 +6,11 @@ pic: "capitol.jpg"
 "pic-credit": kylerush
 published: true
 ---
+<img src="/img/posts/earmarks-team.png">
+
 Earmarks have been [called](http://books.google.com/books?id=BUJ1AwAAQBAJ&pg=PA117&lpg=PA117&dq=the+best+known,+most+notorious,+and+most+misunderstood+aspect+of+the+congressional+budgetary+process&source=bl&ots=p5MYDdme0Z&sig=Fe3_Mi3WizNB9YfqDc3o626mkHU&hl=en&sa=X&ei=qTK0U8rMCIKnyAS87IDYAQ&ved=0CB8Q6AEwAA#v=onepage&q=the%20best%20known%2C%20most%20notorious%2C%20and%20most%20misunderstood%20aspect%20of%20the%20congressional%20budgetary%20process&f=false) “the best known, most notorious, and most misunderstood aspect of the congressional budgetary process.” These government budget items allocated to specific people, places, or projects are alternately described as a subversion of democracy or an important negotiation tool to smooth the passage of controversial legislation. But despite the attention earmarks attract, they remain extremely tedious and time-consuming to identify in federal bills and reports that may be hundreds of pages long.
 
 This summer, Data Science for Social Good fellows Matthew Heston, Madian Khabsa, Vrushank Vora, and Ellery Wulczyn and mentor Joe Walsh, working with [Christopher Berry](http://harrisschool.uchicago.edu/directory/faculty/christopher_berry) at the Harris School of Public Policy, will help shine a light on earmarks, building computational tools to automatically identify them in Congressional texts.
-
-<img src="/img/posts/earmarks-team.png">
 
 On its face, earmarking appears to be a cheat code against democracy, taking away the power to distribute federal funds from agencies and their competitive or merit-based selection processes and giving taxpayer money directly to well-connected people and companies. In one infamous example, the “Bridge to Nowhere,” Congress allocated $398 million in federal funds to build a bridge that would connect an island with 50 residents to mainland Alaska. 
 
