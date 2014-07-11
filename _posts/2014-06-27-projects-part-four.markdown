@@ -22,7 +22,7 @@ DSSG has partnered with the **Chicago Department of Public Health** to help find
 
 *Mentor*: Eric Rozier
 
-*Fellows*: Alex Loewi, Subhabrata Majumdar, Joe Brew, Andrew Reece
+*Fellows*: Joe Brew, Alex Loewi, Subhabrata Majumdar, Andrew Reece
 
 <h4><a href="http://www.montgomeryschoolsmd.org/">Montgomery County Public Schools</a>, Rockville, MD - Increasing Graduation Rates and Improving College Readiness for High School Students</h4>
 <p></p>
@@ -36,7 +36,7 @@ The Data Science project will also build upon [last year’s work with Mesa Publ
 
 *Mentor*: Ben Yuhas
 
-*Fellows*: David Miller, Nasir Bhanpuri, Everaldo Aguiar, Himabindu Lakkaraju
+*Fellows*: Everaldo Aguiar, Nasir Bhanpuri, Himabindu Lakkaraju, David Miller
 
 <h4><a href="http://www.conservation.org/">Conservation International</a> - Using Sensor Data to Inform and Evaluate Environmental Initiatives</h4>
 <p></p>
@@ -50,5 +50,5 @@ To help TEAM get the most information from this sensor network, we will develop 
 
 *Mentor*: Varun Chandola
 
-*Fellows*: Scott Cambo, Nadya Calderon, Christopher Lazarus, Raphael Stern
+*Fellows*: Nadya Calderon, Scott Cambo, Christopher Lazarus, Raphael Stern
 
