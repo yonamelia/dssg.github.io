@@ -32,7 +32,7 @@ Similarly, the World Bank Group team looked for corruption at the level of indiv
 
 <img src="/img/posts/models4.JPG">
 
-Another common theme was moving from models built on unsupervised statistical methods agnostic about the realities of the world to actual insights that partner organizations can take actions on. Natural language processing methods used by the Skills for Chicagoland’s Future team to match job seekers’ resumes with employers’ job postings provides an important first step for wading through millions of documents, but may mismatch or omit some concepts without universally agreed upon definitions. 
+Another common theme was moving from models built on unsupervised statistical methods agnostic about the realities of the world to more relevant insights that partner organizations can take actions on. Natural language processing methods used by the Skills for Chicagoland’s Future team to match job seekers’ resumes with employers’ job postings provides an important first step for wading through millions of documents, but may make matches that wouldn't make sense to a human observer. 
 
 Teams performing feature extraction tasks that identify the most important factors for predicting an outcome such as maternal mortality or program retention may find unexpected results, prompting further discussion with their project partners about whether those features are useful for real-world interventions or further exploration. In all such cases, Ghani said that it’s important to remember that the model should only be used as an initial step in the overall process guide, and should not be used without digging deeper into what it’s learning and what that means about the individuals or entities in the data.
 
