@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Hackathon For and Against 'Evil'"
+title: "A Hackathon For (But Mostly Against) 'Evil'"
 author: Sarah Tan
 pic: "hackathon.jpg"
 published: true
