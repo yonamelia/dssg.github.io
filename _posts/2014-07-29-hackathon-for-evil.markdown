@@ -30,7 +30,7 @@ Less obviously related to the pursuit or abatement of evil, other apps developed
 
 At the end of the day, in appropriately evil fashion, prizes were given out via “white elephant,” where participants could choose an unclaimed prize or steal another person’s prize. As such, the lucky winners of gift certificates and concert tickets could not revel in their good fortune for long before having them snatched away, and one fellow, Ben Green, ended up with his own prize: a date with Ben Green. However, the surfeit of prizes allowed every participant to walk away with more than one prize.
 
-<img src="/img/posts/hackathon-cheer.JPG">
+<img src="/img/posts/hackathon-cheer.jpg">
 
 In organizing this hackathon, we found [advice](http://www.smartchicagocollaborative.org/civic-innovation-toolkit-how-to-run-a-civic-hackathon/) from people such as Code for America’s Chicago Brigade Leader to be useful. But we also realized how a relatively unstructured day with the essential elements - a theme, enthusiastic people, food, and workshops - is all that is needed for a successful hackathon. Cross-team collaboration? Mission accomplished.
 
