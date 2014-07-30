@@ -3,7 +3,7 @@ type: org14
 org: Mexico - Presidencia de la Republica
 slug: mexico
 img: [mexico.png]
-website: ['http://http://en.presidencia.gob.mx/']
+website: ['http://en.presidencia.gob.mx/']
 project: Reducing Maternal Mortality Rates in Mexico
 ---
 
