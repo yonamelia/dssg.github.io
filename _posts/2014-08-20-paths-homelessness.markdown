@@ -2,8 +2,9 @@
 layout: post
 title: "Tracking the Paths of Homelessness"
 author: Isaac Hollander McCreery
-pic: "homeless-header.jpg"
-pic-credit: valeriebb
+pic: "homeless-count.jpg"
+"pic-caption": A worker collects information during a point-in-time count. From the 2013 Plan 2.0 Progress Report.
+pic-credit: Chicago Department of Family and Support Services
 ---
 
 *"We believe that ending homelessness is possible and that, in Chicago, everyone should have a home."* - [Chicago's Plan 2.0: A Home for Everyone](http://www.cityofchicago.org/city/en/depts/fss/supp_info/plan_to_homelessness.html)
