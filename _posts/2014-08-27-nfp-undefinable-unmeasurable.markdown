@@ -20,6 +20,7 @@ Yet, even as NFP looks to expand in new cities, some existing local agencies are
 Today, NFP serves a diverse population of mothers across 43 states. However, what all of these mothers have in common is that they are young, first-time, low-income mothers. The majority of them are unmarried and many of them are 19 years old or younger. Hence, this is a highly vulnerable population.
 
 <img src="/img/posts/nfp-demos.png">
+*Data for mothers enrolled in NFP between 2007-2010*
 
 ####To Define the “Undefinable” and Measure the “Unmeasurable”
 
