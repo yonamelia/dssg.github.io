@@ -1,3 +1,20 @@
+/* customize boxes for projects */
+
+.projectbox {
+color: #34495e;
+padding: 16px 45px 16px 30px;
+text-shadow: none;
+background-color: #FFFFFF;
+border: 2px solid #CCC9C9;
+font-size: 16px;
+line-height: 1.53875em;
+-webkit-border-radius: 6px;
+-moz-border-radius: 6px;
+border-radius: 2px;
+}
+
+
+
 /* Remove padding from body so navbar and footer don't look weird */
 body {
         padding: 0;
