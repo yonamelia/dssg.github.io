@@ -22,12 +22,13 @@ published: true
   You can find our 2013 projects <a href="/projects/2013">here</a>.
   </p>
 
-    <div id="contact" class="row">
+
+    <div id="projects" class="row">
 
      <!-- Iterate through projects and display info -->
   {% for post in site.posts %}
     {% if post.type == 'org14' %}   
-    <div class="span4 alert">
+    <div class="span3 projectbox">
       <h3>{{ post.project }}</h3>
       {% for org in post.org %}
             <!-- Fetch the right partner url using current loop index-->
@@ -36,7 +37,7 @@ published: true
             {% if forloop.last != true %}
               ,
             {% endif %} 
-          {% endfor %}
+          {% endfor %}<p>
 
       {% for img in post.img %}
               <!-- Fetch the right image link as you loop through partner logos -->
@@ -45,7 +46,7 @@ published: true
               </a>
             {% endfor %}
     </div>
-    
+
     {% endif %}
   {% endfor %} 
   </div>
