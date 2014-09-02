@@ -1,4 +1,7 @@
 /* customize boxes for projects */
+.spacer {
+    margin-top: 10px; /* define margin as you see fit */
+}
 
 .projectbox {
 color: #34495e;
