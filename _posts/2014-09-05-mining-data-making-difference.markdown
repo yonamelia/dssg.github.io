@@ -45,6 +45,9 @@ Using data from blood tests, housing records, census demographics, and other sou
 
 “The data we’re getting from DSSG is helping us rethink the way we do our operations,” said Bechara Choucair, Commissioner of the Chicago Department of Public Health. “When you have limited resources, you have to be smarter in how you use those resources, and that’s exactly what we’re doing.”
 
+<iframe width="640" height="360" src="//www.youtube.com/embed/DbplLXRQquI" frameborder="0" allowfullscreen></iframe>
+*Video of the CDPH team presenting at the DSSG Data Fair, held at 1871 on August 19th*
+
 But as the team developed the property risk model for their partners, they realized that it only addressed part of the lead poisoning problem. Children can also be exposed to lead in the environment outside the home, or from objects brought into the residence. So the fellows developed a second model that predicts a child’s blood lead levels through the critical early years of their life, so that physicians can test high-risk children earlier and take other preventive measures to prevent poisoning.
 
 “There’s a lot of different ways that lead can get at a child, and the house is only one of them,” Reece said. “When a child is born, we can now tell how much danger that child is going to be in a couple years from now. That kind of predictive trajectory for both children and homes is something that CDPH has never seen before.”
