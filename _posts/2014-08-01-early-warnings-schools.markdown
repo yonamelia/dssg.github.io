@@ -16,6 +16,7 @@ This summer, our team -- fellows Everaldo Aguiar, Nasir Bhanpuri, Himabindu Lakk
 Located directly north of Washington D.C., MCPS has 38 middle and 25 high schools. Our partners at the county provided de-identified data on a cohort of 11,000 students whose academic outcomes were monitored from the beginning of middle school to the end of high school. The dataset includes rich -- but anonymous -- information about students’ trajectories including students’ marking period averages, test scores, number of suspensions, absence rates, mobility, retention and whether the students were new to MCPS.  
 
 <img src="/img/posts/mcps-district.png">
+*A map of the Montgomery County Public Schools district, via [the MCPS website](http://gis.mcpsmd.org/Viewer.html)*
 
 MCPS already uses many methods to identify students who may be at risk of not graduating on time in order to match them with evidence-based interventions. With its early warning indicators system, MCPS uses advanced analytic techniques to build new tools for monitoring students.  Our work is to assist them in exploring these data through various models to achieve a more complete understanding of the factors that contribute to students not graduating on time. Over time, such an approach can lead to a more efficient allocation of resources and larger improvements on graduation rates.  
 
